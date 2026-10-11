@@ -1,5 +1,11 @@
 # Atividade 5 - Hierarquia de Classes Basicos
 
+## Enunciado da atividade
+
+O enunciado original da atividade esta disponivel no Canvas:
+
+[Evoluindo o sistema de personagens](https://pucpr.instructure.com/courses/71363/assignments/360804?module_item_id=1804701)
+
 ## Ideia da atividade
 
 Nesta atividade, o objetivo e evoluir um sistema de personagens de RPG.
